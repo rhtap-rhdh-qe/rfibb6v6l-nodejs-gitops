@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: rfibb6v6l-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/rfibb6v6l-nodejs
